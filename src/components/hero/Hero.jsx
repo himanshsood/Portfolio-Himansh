@@ -139,7 +139,7 @@ const Hero = () => {
         
         {/* CONTACT BUTTON */}
         <motion.a
-          href="/#contact"
+          href="mailto:himanshsood311@gmail.com"
           className="contactLink"
           animate={{
             x: [200, 0],
